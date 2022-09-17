@@ -13,3 +13,5 @@ pattern
 
 [package](src/main/java/com/mustafakoroglu/springwithdesignpatterns/behavioral/strategy)
 / [test](src/test/java/com/mustafakoroglu/springwithdesignpatterns/behavioral/strategy/CalculatorContextTest.java)
+
+![strategy pattern diagram](diagrams/strategy.png)
